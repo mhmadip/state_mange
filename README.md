@@ -1,6 +1,6 @@
 # state_mange
 
-A new Flutter project.
+State Managment App.
 
 ## Getting Started
 
