@@ -22,6 +22,7 @@ class MyInheritedWidget extends InheritedWidget {
 
 // message of our inherited widget class
   final String message;
+  final String abc;
 
   static MyInheritedWidget of(BuildContext context) {
     return context.dependOnInheritedWidgetOfExactType<MyInheritedWidget>()!;
